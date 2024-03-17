@@ -1,0 +1,8 @@
+C:\Users\Максим\Downloads\Задачи1\bin\Debug\Задачи1.exe.config
+C:\Users\Максим\Downloads\Задачи1\bin\Debug\Задачи1.exe
+C:\Users\Максим\Downloads\Задачи1\bin\Debug\Задачи1.pdb
+C:\Users\Максим\Downloads\Задачи1\obj\Debug\Задачи1.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Задачи1\obj\Debug\Задачи1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Downloads\Задачи1\obj\Debug\Задачи1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Задачи1\obj\Debug\Задачи1.exe
+C:\Users\Максим\Downloads\Задачи1\obj\Debug\Задачи1.pdb
